@@ -311,3 +311,4 @@ adb shell pm uninstall --user 0 com.vlingo.midas ;
 adb shell pm uninstall --user 0 com.wsomacp ;
 adb shell pm uninstall --user 0 com.wssnps ;
 adb shell pm uninstall --user 0 com.yelp.android.samsungedge ;
+Write-Output COMPLETED https://github.com/raulpadilladelgado/DebloatAndroid ;
